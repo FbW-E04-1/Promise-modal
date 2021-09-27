@@ -1,5 +1,3 @@
-# Promise-modal
-
 # Promise me a modal
 
 **Instructions**:
